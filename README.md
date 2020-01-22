@@ -24,8 +24,9 @@ Below are the links to all the learning journals:
 
 ## Cheat Sheet EMOJI
 
-|ico|	shortcode|	ico	|shortcode|	
-|😀	|:grinning:|	😃|	:smiley:|	
-|😄	|:smile:|   😁|:grin:	|
-|😆	|:laughing:|
+|ico |	shortcode|	ico	|shortcode|	
+|--- |     ----- |  --- |  ------|
+|😀	|  :grinning:|	😃 |:smiley:|	
+|😄	|     :smile:|   😁|:grin:	|
+|😆	|  :laughing:|
 
