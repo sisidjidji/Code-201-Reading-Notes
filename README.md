@@ -26,7 +26,7 @@ Below are the links to all the learning journals:
 
 |ico |	shortcode|	ico	|shortcode|	
 |--- |     ----- |  --- |  ------|
-|😀	|  :grinning:|	😃 |:smiley:|	
-|😄	|     :smile:|   😁|:grin:	|
-|😆	|  :laughing:|
+|😀	|  : grinning:|	😃 |: smiley:|	
+|😄	|     : smile:|   😁|: grin:	|
+|😆	|  : laughing:|
 
