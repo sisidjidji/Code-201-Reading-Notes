@@ -6,8 +6,8 @@ my name is SIHEM , i am 35 years old, a mom of two kids LOUISA and RAMZI,i studi
 Below are the links to all the learning journals:
 
 * [**READ01**](https://sisidjidji.github.io/class-01/) .
-* **READ02** .
-* **READ03** .
+* *READ02* .
+* *READ03* .
 * **READ04** .
 * **READ05** .
 * **READ06** .
@@ -20,4 +20,12 @@ Below are the links to all the learning journals:
 * **READ13** .
 * **READ14** .
 * **READ15** .
+
+
+## Cheat Sheet EMOJI
+
+|ico|	shortcode|	ico	|shortcode|	
+|😀	|:grinning:|	😃|	:smiley:|	
+|😄	|:smile:|   😁|:grin:	|
+|😆	|:laughing:|
 
