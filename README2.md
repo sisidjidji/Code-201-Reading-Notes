@@ -65,6 +65,8 @@ JavaScript supports different kinds of loops:
 # Answer:
 
 TRUE OR FALSE 
-1. We can use < sub> tag to Superscript text. FALSE it is Subscript text
-2. javascript is not a script language . FALSE
-3. The Loop do/while Run at least ones . TRUE
+1. We can use < sub> tag to Superscript text. FALSE it is used to  Subscript text
+
+2. javascript is not a script language / TRUE
+
+3. The Loop do/while Run at least ones /TRUE
