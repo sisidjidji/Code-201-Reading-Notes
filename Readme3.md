@@ -13,7 +13,7 @@ there is 3 types of list :
 <dt>
 <dd>
 
-# 2.Boxees :
+# 2.Boxes :
 
 CSS treats each HTML element as if it has its own box, we can use CSS to control the dimansions of a box 
 for box dimensions we use :width,hight
@@ -53,6 +53,8 @@ border style : it  can be
 - Inset
 - Outset
 
+border color
+
 - border-color 
 - border-right-color
 - border-bottom-color
@@ -77,8 +79,8 @@ css3
 - < LESS THAN
 - <= LESS THAN OR EQUAL TO
 
-- > GREATHER THAN
-- >= GREATHER THAN OR EQUAL TO
+-     >  GREATHER THAN
+-     > = GREATHER THAN OR EQUAL TO
 
 - == KINDA EQUAL
 - !== KINDA OT EQUAL
