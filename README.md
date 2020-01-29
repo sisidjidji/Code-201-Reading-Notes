@@ -8,7 +8,7 @@ Below are the links to all the learning journals:
 * [READ01](https://sisidjidji.github.io/class-01/) .
 * [READ02](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/README2.md) .
 * [READ03](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/README3.md) .
-* [READ04](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/Readme4.md) .
+* [READ04](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/README4.md) .
 * **READ05** .
 * **READ06** .
 * **READ07** .
