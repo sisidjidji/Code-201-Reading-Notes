@@ -3,13 +3,13 @@
 # Summary:
 
 ## 1. Colors
-   ## 1.1  RGB Value
-   ## 1.2  HEX Value 
-   ## 1.3  HSL Value
+   ### 1.1  RGB Value
+   ### 1.2  HEX Value 
+   ### 1.3  HSL Value
 ## 2. Images
-   ## 2.1 Images syntax
-   ## 2.2 Images format 
-   ## 2.3 The alt Attribute
+   ### 2.1 Images syntax
+   ### 2.2 Images format 
+   ### 2.3 The alt Attribute
 ## 3. Text 
 
 ## colors :
