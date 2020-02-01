@@ -12,11 +12,11 @@
    ### 2.3 The alt Attribute
 ## 3. Text 
 
-## colors :
+## 1. colors :
 
 HTML colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values:
 
-### RGB Value:
+### 1.1 RGB Value:
 
 In HTML, a color can be specified as an RGB value, using this formula:
 
@@ -30,7 +30,7 @@ To display black, set all color parameters to 0, like this: rgb(0, 0, 0).
 
 To display white, set all color parameters to 255, like this: rgb(255, 255, 255).
 
-### HEX Value:
+### 1.2 HEX Value:
 
 In HTML, a color can be specified using a hexadecimal value in the form:
 
@@ -40,7 +40,7 @@ Where rr (red), gg (green) and bb (blue) are hexadecimal values between 00 and f
 
 For example, #ff0000 is displayed as red, because red is set to its highest value (ff) and the others are set to the lowest value (00).
 
-### HSL Value:
+### 1.3 HSL Value:
 
 In HTML, a color can be specified using hue, saturation, and lightness (HSL) in the form:
 
@@ -54,9 +54,9 @@ Lightness is also a percentage, 0% is black, 50% is neither light or dark, 100% 
 
 
 
-## Images:
+## 2. Images:
 
-### Images syntax:
+### 2.1 Images syntax:
 
 In HTML, images are defined with the <img> tag.
 
@@ -70,7 +70,7 @@ we can specify its size by using the attributes : Height and width
 
 
 
-### Images Format:
+### 2.2 Images Format:
 
 there is 3 rules for creating images :
 
@@ -83,7 +83,7 @@ there is 3 rules for creating images :
 
 3.  measure images in pixels .
 
-### The alt Attribute:
+### 2.3 The alt Attribute:
 
 The alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, 
 
@@ -96,7 +96,7 @@ Example:
 < img src="img_chania.jpg" alt="Flowers in Chania">
 
 
-## Texts:
+## 3. Texts:
 
 Formatting elements were designed to display special types of text:
 
