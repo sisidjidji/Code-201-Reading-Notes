@@ -85,7 +85,7 @@ Example:
 < img src="img_chania.jpg" alt="Flowers in Chania">
 
 
-# Texts:
+## Texts:
 
 Formatting elements were designed to display special types of text:
 
