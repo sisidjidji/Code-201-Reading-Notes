@@ -14,31 +14,31 @@ A domain model that's articulated well can verify and validate the understanding
 - for long tables you can split the tables you can split the table into a <b> < thead> <b>, <b> < tbody> <b>, <b> < tfoot> <b>
 
 
-### basic table structure :
-< table>
-< tr>// firsr row
-< td> 1 st cell< td>
-< td> 2 nd cell < td>
-< td> 3 ed cell< td>
-< /tr>
-< tr> // second row
-< td> 1 st cell < td>
-< td> 2 nd cell< td>
-< td>3 ed cell < td>
-< tr>
-< table>
+### Basic table structure :
+<br>< table></br>
+<br>< tr>// firsr row </br>
+<br>< td> 1 st cell< td> </br>
+<br>< td> 2 nd cell < td></br>
+<br>< td> 3 ed cell< td></br>
+<br>< /tr></br>
+<br>< tr> // second row</br>
+<br>< td> 1 st cell < td></br>
+<br>< td> 2 nd cell< td></br>
+<br>< td>3 ed cell < td> </br>
+<br>< tr></br>
+<br>< table></br>
 
-### tables heading :
-< table>
-< tr>
-< th>< /th>
-< th scope ="col1">first columne title< /th>
-< th scope ="col2">first columne title< /th>
-< /tr>
-< tr>// firsr row
-< th scope="row"> first row title< /th>
-< td> 1 st cell< td>
-< td>2nd cell< td>
-< /tr>
-< table>
+### Tables heading :
+<br>< table></br>
+<br>< tr></br>
+<br>< th>< /th></br>
+<br>< th scope ="col1">first columne title< /th></br>
+<br>< th scope ="col2">first columne title< /th></br>
+<br>< /tr></br>
+<br>< tr>// firsr row</br>
+<br>< th scope="row"> first row title< /th></br>
+<br>< td> 1 st cell< td></br>
+<br>< td>2nd cell< td></br>
+<br>< /tr></br>
+<br>< table></br>
 
