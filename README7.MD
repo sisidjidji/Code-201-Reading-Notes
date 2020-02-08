@@ -14,8 +14,8 @@ A domain model that's articulated well can verify and validate the understanding
 - for long tables you can split the tables you can split the table into a <b> < thead> <b>, <b> < tbody> <b>, <b> < tfoot> <b>
 
 
-basic table structure :
-<b>< table>
+### basic table structure :
+< table>
 < tr>// firsr row
 < td> 1 st cell< td>
 < td> 2 nd cell < td>
@@ -26,10 +26,10 @@ basic table structure :
 < td> 2 nd cell< td>
 < td>3 ed cell < td>
 < tr>
-< table><b>
+< table>
 
-tables heading :
-<b>< table>
+### tables heading :
+< table>
 < tr>
 < th>< /th>
 < th scope ="col1">first columne title< /th>
@@ -40,5 +40,5 @@ tables heading :
 < td> 1 st cell< td>
 < td>2nd cell< td>
 < /tr>
-< table></b>
+< table>
 
