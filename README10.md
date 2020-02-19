@@ -12,6 +12,7 @@ common sources of,  errors and how to solve them
 how code can deak with errors gracefully 
 
 
+## summary :
 
 * If you understand execution contests and slacks, you are more likely to find theerror in your code 
 * Debugging is the process of finding errors.it involves a process of deduction 
