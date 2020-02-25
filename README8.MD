@@ -1,4 +1,4 @@
-# CLASS8
+# CLASS-8
 
 
 * < div> element are often used as containing elementa to group togher sections of pages.

@@ -1,4 +1,4 @@
-# class 10 
+# class-10 
 
 # Error handeling and debugging :
 

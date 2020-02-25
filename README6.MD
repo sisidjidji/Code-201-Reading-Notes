@@ -1,4 +1,4 @@
-# CLASS 6
+# CLASS-6
 
 ## 1. OBJECT :
 
