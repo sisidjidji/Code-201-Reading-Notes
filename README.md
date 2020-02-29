@@ -17,7 +17,7 @@ Below are the links to all the learning journals:
 * [READ10](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/README10.MD).
 * [READ11](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/README11.MD).
 * [READ12](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/README12.MD).
-* **READ13** .
+* [READ13](https://github.com/sisidjidji/Code-201-Reading-Notes/blob/master/README13.MD).
 * **READ14** .
 * **READ15** .
 
